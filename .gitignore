@@ -1,1 +1,7 @@
+#adding config.py file
 
+api_keys.py
+
+#ignoring DS Store
+
+.DS_Store
